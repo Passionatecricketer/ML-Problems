@@ -15,7 +15,7 @@ Regression problem
 Applied linear regression model on a dataset to predict item outlet sales of the company
 
 
-Day --> 3
+Day -> 3
 
 Classification problem
 
@@ -27,3 +27,10 @@ Day -> 4
 Classification problem
 
 Applied univariate analysis to all possible features in the Business_Sourced(Classification) dataset
+
+
+Day -> 5
+
+Classification problem
+
+Applied multivariate analysis to all possible features in the Business_Sourced(Classification) dataset
