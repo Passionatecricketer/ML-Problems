@@ -41,3 +41,10 @@ Day -> 6
 Regression problem
 
 Started analyzing pubg past records dataset obtained from kaggle competetion(Not able to upload csv files due to the size of the files being too large)
+
+
+Day -> 7
+
+Regression problem
+
+Downloaded the datasets provided by yes bank for thier datathon and started analyzing it to predict basis point spread zone of aaa mutual funds
