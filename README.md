@@ -48,3 +48,10 @@ Day -> 7
 Regression problem
 
 Downloaded the datasets provided by yes bank for thier datathon and started analyzing it to predict basis point spread zone of aaa mutual funds
+
+
+Day -> 8
+
+Regression problem
+
+Setting adjustments to yes bank csv but could not fit model due and size and storage
