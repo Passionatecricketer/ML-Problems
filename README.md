@@ -12,3 +12,7 @@
 #11-Linear Regression
 
 --> Linear regression practice on made up data
+
+#13-Logistic Regression
+
+--> Logistic regression practice on made up data
