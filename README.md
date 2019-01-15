@@ -8,3 +8,7 @@
 #ItemOtletSales-Regression
 
 --> A regression problem to predict the sales of a company!!
+
+#11-Linear Regression
+
+--> Linear regression practice on made up data
