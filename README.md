@@ -16,3 +16,7 @@
 #13-Logistic Regression
 
 --> Logistic regression practice on made up data
+
+#14-K-Nearest Neighbour
+
+--> Classification problem using knn method
