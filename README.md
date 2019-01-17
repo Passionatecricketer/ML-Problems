@@ -24,3 +24,7 @@
 #15-Decision Tree and Random Forest
 
 --> Understanding decision trees and random forests
+
+#16-Support Vector Machines
+
+--> Understanding SVM
