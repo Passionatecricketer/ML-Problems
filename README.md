@@ -20,3 +20,7 @@
 #14-K-Nearest Neighbour
 
 --> Classification problem using knn method
+
+#15-Decision Tree and Random Forest
+
+--> Understanding decision trees and random forests
