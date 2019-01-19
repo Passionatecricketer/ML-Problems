@@ -28,3 +28,7 @@
 #16-Support Vector Machines
 
 --> Understanding SVM
+
+#17-KMeans Clustering
+
+--> Unsupervised learning with clustering
