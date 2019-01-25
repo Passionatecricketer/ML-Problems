@@ -36,3 +36,7 @@
 #20-Natural Language Processing
 
 --> Practice problem on nlp
+
+#Twitter Sentiment Analysis
+
+--> Analysis of tweets using nlp
