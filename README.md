@@ -39,4 +39,8 @@
 
 #Twitter Sentiment Analysis
 
---> Analysis of tweets using nlp
+--> Analysis of tweets(Spam or Ham) using nlp
+
+#Iris-Classification
+
+--> Classification practice to predict flower type on inbuilt iris dataset
