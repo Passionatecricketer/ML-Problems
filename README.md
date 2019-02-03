@@ -44,3 +44,7 @@
 #Iris-Classification
 
 --> Classification practice to predict flower type on inbuilt iris dataset
+
+#Face Sentiment
+
+--> Sentiment analysis to predict face emotion
