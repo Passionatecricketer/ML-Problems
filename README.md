@@ -48,3 +48,7 @@
 #Face Sentiment
 
 --> Sentiment analysis to predict face emotion
+
+#Loan Credibility
+
+--> Dataset on classification example to predict whether a customer is suitable to grant loan or not
