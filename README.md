@@ -52,3 +52,11 @@
 #Loan Credibility
 
 --> Dataset on classification example to predict whether a customer is suitable to grant loan or not
+
+#Artificial neural network
+
+--> Deep learning practice for artificial neural networks
+
+#Convolutional neural network
+
+--> Deep learning practice for convolutional neural networks
