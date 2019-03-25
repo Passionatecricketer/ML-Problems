@@ -60,3 +60,7 @@
 #Convolutional neural network
 
 --> Deep learning practice for convolutional neural networks
+
+#Heart Disease UCI
+
+--> Classification problem to predict the person is likely to be affected by the heart disease or not on  certain factors  
