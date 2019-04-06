@@ -64,3 +64,7 @@
 #Heart Disease UCI
 
 --> Classification problem to predict the person is likely to be affected by the heart disease or not on  certain factors  
+
+#Titanic Disaster
+
+--> Analysis to predict whether a person is likely to get affected by titanic disaster
