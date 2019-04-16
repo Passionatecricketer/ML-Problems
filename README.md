@@ -68,3 +68,7 @@
 #Titanic Disaster
 
 --> Analysis to predict whether a person is likely to get affected by titanic disaster
+
+#Black Fiday
+
+--> Linear Regression analysis on black friday dataset obtained from kaggle
