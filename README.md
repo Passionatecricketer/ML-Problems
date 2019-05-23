@@ -72,3 +72,7 @@
 #Black Fiday
 
 --> Linear Regression analysis on black friday dataset obtained from kaggle
+
+#Delhi Cantt.
+
+--> An analysis of voters from delhi cantt. constituency
