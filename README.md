@@ -76,3 +76,7 @@
 #Delhi Cantt.
 
 --> An analysis of voters from delhi cantt. constituency
+
+#BBC
+
+--> Text classification example to predict the category of text provided in dataset
