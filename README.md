@@ -80,3 +80,7 @@
 #BBC
 
 --> Text classification example to predict the category of text provided in dataset
+
+#Sentiment Analysis
+
+--> Sentiment analysis of data provided by innoplexus company to predict the sentiment of data in test dataset by mention of the drug name using nlp
