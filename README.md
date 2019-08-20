@@ -84,3 +84,7 @@
 #Sentiment Analysis
 
 --> Sentiment analysis of data provided by innoplexus company to predict the sentiment of data in test dataset by mention of the drug name using nlp
+
+#Loan Default
+
+--> Classification analysis to predict probability of a person defaulting the loan
