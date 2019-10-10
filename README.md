@@ -88,3 +88,7 @@
 #Loan Default
 
 --> Classification analysis to predict probability of a person defaulting the loan
+
+#Book Price
+
+--> Regression problem to predict price of the book
